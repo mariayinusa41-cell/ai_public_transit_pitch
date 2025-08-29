@@ -1,0 +1,6 @@
+origin,destination,current_commute_time_min,commuters_per_day
+Neighborhood A,Downtown,45,500
+Neighborhood B,Downtown,35,350
+Neighborhood C,Industrial Zone,60,200
+Suburb X,Downtown,50,400
+Suburb Y,University,30,250
